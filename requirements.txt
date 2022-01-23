@@ -1,0 +1,6 @@
+nltk
+pandas
+matplotlib
+scipy
+requests
+joblib
